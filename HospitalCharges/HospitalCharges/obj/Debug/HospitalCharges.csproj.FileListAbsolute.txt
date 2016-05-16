@@ -1,0 +1,9 @@
+c:\users\mikae\documents\visual studio 2012\Projects\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe.config
+c:\Users\mikae\Documents\Visual Studio 2012\Projects\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe
+c:\Users\mikae\Documents\Visual Studio 2012\Projects\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.pdb
+c:\Users\mikae\Documents\Visual Studio 2012\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.csprojResolveAssemblyReference.cache
+c:\Users\mikae\Documents\Visual Studio 2012\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.Form1.resources
+c:\Users\mikae\Documents\Visual Studio 2012\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.Properties.Resources.resources
+c:\Users\mikae\Documents\Visual Studio 2012\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.csproj.GenerateResource.Cache
+c:\Users\mikae\Documents\Visual Studio 2012\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.exe
+c:\Users\mikae\Documents\Visual Studio 2012\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.pdb
